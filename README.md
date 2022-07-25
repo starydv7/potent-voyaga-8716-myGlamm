@@ -22,13 +22,11 @@
 
 1)Homepage -<a href='https://github.com/faisalk2' >Faisal Khan</a>
 
-2)Login ,SignUp - <a href='https://github.com/faisalk2' >Faisal Khan</a>
-
 3)Bag,checkout,address and payment - <a href='https://github.com/Santanu55555'>Santanu Mohapatra</a>
 
-4)Navbar and footer - <a href='https://github.com/AdilAhmed976'>Adil Ahmed </a>
+4)Navbar - <a href='https://github.com/AdilAhmed976'>Adil Ahmed </a>
 
-5)footer - <a href='https://github.com/starydv7'>Pawan Yadav </a>
+5)footer,Login - <a href='https://github.com/starydv7'>Pawan Yadav </a>
 
 Netlify Link - https://potent-voyaga-8716.netlify.app
 
